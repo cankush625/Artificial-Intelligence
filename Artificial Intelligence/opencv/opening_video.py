@@ -11,7 +11,7 @@ import cv2
 
 
 # Reading video
-cap = cv2.VideoCapture("Main_Teri_Ho_Gayi__Lyrical_Lyrics_–_Millind_Gaba_Ft_Aditi_Budhathoki____Late.mp4")
+cap = cv2.VideoCapture("video.mp4")
 
 
 # In[42]:
