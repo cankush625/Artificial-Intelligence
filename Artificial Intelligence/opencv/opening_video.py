@@ -11,7 +11,9 @@ import cv2
 
 
 # Reading video
+
 cap = cv2.VideoCapture("video.mp4")
+
 
 
 # In[42]:
